@@ -1,3 +1,6 @@
 https://api.{default}:
   type: upstream
   upstream: api:http
+https://www.{default}:
+  type: upstream
+  upstream: frontend:http
