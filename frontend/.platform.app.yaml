@@ -1,1 +1,3 @@
 name: frontend
+type: php:7.0
+disk: 512
